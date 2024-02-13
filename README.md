@@ -1,14 +1,13 @@
 # Taj Gill
 
-**`Programmer bing bong`**
+**`Software Engineer`**
 
 
 
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning frontend
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on my university work
+- 🌱 I’m currently learning about databases
+- 🤔 I’m looking for an internship
 - 📫 How to reach me: mywebsite.com
 
 ---
